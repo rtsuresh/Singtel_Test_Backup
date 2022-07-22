@@ -1,0 +1,5 @@
+com\qa\stepDefinitions\demoAppSteps.class
+com\qa\util\TestBase.class
+com\qa\pages\ToDoMVCHome.class
+com\qa\runner\TestRunner.class
+com\qa\util\UtilityFunctions.class
