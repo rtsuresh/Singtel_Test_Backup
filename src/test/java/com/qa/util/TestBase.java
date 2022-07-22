@@ -46,7 +46,7 @@ public class TestBase {
 	{
 		UtilityFunctions.ifProcessExistsKill("chrome.exe");
 
-		System.setProperty("webdriver.chrome.driver","/QA/Singtel_CodingTest/Reference/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","/QA/Singtel_CodingTest/Singtel_Test/Reference/chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.get("http://todomvc.com/examples/vue/");
 
